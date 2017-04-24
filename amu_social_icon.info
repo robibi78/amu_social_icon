@@ -1,0 +1,4 @@
+name = Social Icon
+description = Affichage des icones des réseaux sociaux.
+core = 7.x
+package = AMU
